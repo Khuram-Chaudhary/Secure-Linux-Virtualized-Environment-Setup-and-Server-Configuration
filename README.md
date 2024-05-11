@@ -1,8 +1,8 @@
-# My Linux/Fedora Workstation Installation Journey
+# Secure Linux: Virtualized Environment Setup and Server Configuration
 
 ## Introduction
 
-Welcome to my showcase of the installation and configuration process for Linux/Fedora Workstation. In this project, I embarked on a journey to set up a virtualized environment, install Linux/Fedora, and configure various server services. Let's delve into the details of my experience and the steps I took.
+In this project, I embarked on a journey to set up a virtualized environment, install Linux/Fedora, and configure various server services. Let's delve into the details of my experience and the steps I took.
 
 ---
 
